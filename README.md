@@ -8,4 +8,9 @@ This repo contains a work in progress Ecommerce responsive made with Next.js, Re
 ## Design
 
 ## Logo screen
-![alt text](https://github.com/codefan1125/photo-albumns-next/blob/main/Screenshot_1.png?raw=true)
+![alt text](https://github.com/codefan1125/photo-albumns-next/blob/master/Screenshot_1.png?raw=true)
+## Photo albumn
+![alt text](https://github.com/codefan1125/photo-albumns-next/blob/master/Screenshot_2.png?raw=true)
+## Functions
+![alt text](https://github.com/codefan1125/photo-albumns-next/blob/master/Screenshot_3.png?raw=true)
+
